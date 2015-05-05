@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   resources :listings, except: [:index]
-
+  resources :categories, only: [:show]
   root 'listings#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
