@@ -1,3 +1,1 @@
-https://github.com/Thinkful/guide-how-to-learn-ruby-on-rails
 
-left off at Console
